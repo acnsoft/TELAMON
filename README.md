@@ -1,5 +1,8 @@
 # BOZKURT
-Bozkurt basit bir portscanner'dır.
+
+[En] Bozkurt is a basic port scanner.
+
+[Tr] Bozkurt basit bir port scanner'dır.
 
 # Installation (kurulum)
 
