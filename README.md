@@ -34,9 +34,9 @@ exmple: python3 bozkurt.py -sA google.com
 
 # Disclaimer (sorumluluk reddi)
 
-[En] People who use this tool are not our responsibility. Illegal actions are the sole responsibility of the user. Programmers cannot be held responsible. If you use this tool, you accept automatic readme.md.
+[En] People who use this tool are not our responsibility. Illegal actions are the sole responsibility of the user .Developers assume no liability and are not responsible for any misuse or damage caused by this program. If you use this tool, you accept automatic readme.md.
 
-[Tr] Bu aracı kullanan kişiler bizim sorumluluğumuzda değildir. Yasa dışı işlemler tamamen kullanıcının sorumluluğundadır. Programı geliştirenler sorumlu tutulamaz. Bu aracı kullanırsanız, otomatik readme.md'yi kabul etmiş olursunuz.
+[Tr] Bu aracı kullanan kişiler bizim sorumluluğumuzda değildir. Yasa dışı işlemler tamamen kullanıcının sorumluluğundadır. Geliştiriciler, bu programın neden olduğu herhangi bir yanlış kullanım veya hasardan hiçbir sorumluluk kabul etmez ve sorumlu değildir. Bu aracı kullanırsanız, otomatik readme.md'yi kabul etmiş olursunuz.
 
 
 
