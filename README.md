@@ -34,9 +34,9 @@ exmple: python3 bozkurt.py -sA google.com
 
 # Disclaimer (sorumluluk reddi)
 
-[En] People who use this tool are not our responsibility. Illegal actions are the sole responsibility of the user.
+[En] People who use this tool are not our responsibility. Illegal actions are the sole responsibility of the user. Programmers cannot be held responsible
 
-[Tr] Bu aracı kullanan kişiler bizim sorumluluğumuzda değildir. Yasa dışı işlemler tamamen kullanıcının sorumluluğundadır.
+[Tr] Bu aracı kullanan kişiler bizim sorumluluğumuzda değildir. Yasa dışı işlemler tamamen kullanıcının sorumluluğundadır. Programı geliştirenler sorumlu tutulamaz
 
 
 Copyright © 2022 A Studios
