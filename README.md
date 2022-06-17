@@ -1,24 +1,24 @@
-# BOZKURT
+# TELAMON
 
-[En] Bozkurt is a basic port scanner.
+[En] TELAMON is a basic port scanner.
 
-[Tr] Bozkurt basit bir port scanner'dır.
+[Tr] TELAMON basit bir port scanner'dır.
 
 # Installation (kurulum)
 
 1) git clone https://github.com/astudios-tr/BOZKURT.git
-2) cd BOZKURT
-3) python3 bozkurt.py
+2) cd TELAMON
+3) python3 telamon.py
 
 # Usage (kullanım)
 
-A) python3 bozkurt.py -s url
+A) python3 telamon.py -s url
 
-exmple: python3 bozkurt.py -s google.com
+exmple: python3 telamon.py -s google.com
 
-B) python3 bozkurt.py -sA url
+B) python3 telamon.py -sA url
 
-exmple: python3 bozkurt.py -sA google.com
+exmple: python3 telamon.py -sA google.com
 
 
 # positional arguments:
