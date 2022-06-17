@@ -20,17 +20,20 @@ B) python3 telamon.py -sA url
 
 exmple: python3 telamon.py -sA google.com
 
+# Positional arguments:
 
-# positional arguments:
-  target          an ip or a website
+  target          ip yada website
 
-# optional arguments:
-  -h, --help      show this help message and exit
+# Optional arguments:
+  -h, --help      Bu mesajı gösterir / yardım menüsünü gösterir
   
-  -s, --scan      to scan ip/website has any open port
+  -s, --scan      Sitenin / Ip nin belirtilen portun durumunu taratır
   
-  -sA, --scanall  to scan some ports of an ip/website
-
+  -t, --test      sitenin açık mı kapalımı olduğuna bak
+  
+  -a, --all       sitenin tüm portlarını taratır
+  
+  -sA, --scanall  belirtiğin portlar arasındaki portların dumunu taratır
 
 # Disclaimer (sorumluluk reddi)
 
