@@ -43,4 +43,6 @@ exmple: python3 telamon.py -sA google.com
 
 
 
-Copyright © 2022 A Studios
+By A Studios
+
+Telamon ©️ 2022 - Tüm Hakları Saklıdır.
