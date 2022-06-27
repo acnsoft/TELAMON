@@ -6,7 +6,7 @@
 
 # Installation (kurulum)
 
-1) git clone https://github.com/astudios-tr/BOZKURT.git
+1) git clone https://github.com/astudios-tr/TELAMON.git
 2) cd TELAMON
 3) python3 telamon.py
 
