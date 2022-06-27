@@ -16,7 +16,15 @@ A) python3 telamon.py -s url
 
 exmple: python3 telamon.py -s google.com
 
-B) python3 telamon.py -sA url
+B) python3 telamon.py -t url
+
+exmple: python3 telamon.py -sA google.com
+
+C) python3 telamon.py -a url
+
+exmple: python3 telamon.py -sA google.com
+
+D) python3 telamon.py -sA url
 
 exmple: python3 telamon.py -sA google.com
 
