@@ -51,6 +51,6 @@ exmple: python3 telamon.py -sA google.com
 
 
 
-By A Studios
+By AcnSoft
 
 Telamon ©️ 2022 - Tüm Hakları Saklıdır.
