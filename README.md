@@ -54,3 +54,5 @@ exmple: python3 telamon.py -sA google.com
 By AcnSoft
 
 Telamon ©️ 2022 - Tüm Hakları Saklıdır.
+
+![](https://komarev.com/ghpvc/?username=AcnSoft)
